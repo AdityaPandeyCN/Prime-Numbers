@@ -5,5 +5,3 @@ edition = "2021"             # Rust edition (2021 is recommended)
 authors = ["Aditya Pandey <adityapand3y666@gmail.com>"]
 description = "A Rust project for exploring prime numbers and Ramanujan primes."
 
-[dependencies]
-plotters = "0.3.4"           # For visualization (used in earlier code)
